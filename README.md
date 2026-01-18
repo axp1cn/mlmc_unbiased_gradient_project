@@ -1,7 +1,5 @@
 # Multilevel Monte Carlo Unbiased Gradient Estimation for Deep Latent Variable Models
 
-**ENSAE / Berkeley / QRT / CFM** - Research project on unbiased gradient estimation methods for latent variable models using Multilevel Monte Carlo techniques.
-
 This repository implements and compares several unbiased gradient estimators for deep latent variable models, reproducing the first numerical experiment from [Shi & Cornish (2021)](http://proceedings.mlr.press/v130/shi21d.html). The project demonstrates the application of Multilevel Monte Carlo (MLMC) methods to obtain unbiased estimates of gradients, which are crucial for stochastic gradient descent optimization in latent variable models.
 
 ## What This Demonstrates
